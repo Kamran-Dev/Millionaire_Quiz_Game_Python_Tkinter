@@ -29,7 +29,9 @@ def aboutCommand():
             "Oyun 15 sualdan ibarətdir. Hər sual üçün 4 variant mövcuddur, variantlardan yalnız biri doğrudur.\n" \
             "Oyun zamanı 3 kömək haqqınız var və hər birindən yalnız 1 dəfə istifadə etmək olur.\n" \
             "15 suala düzgün cavab verən iştirakçı, oyunun qalibi olur.\n" \
-            "İlk 5 sual asan, sonrakı 5 sual bir az çətin və son 5 sual isə daha çətin səviyyələnmişdir."
+            "İlk 5 sual asan, sonrakı 5 sual bir az çətin və son 5 sual isə daha çətin səviyyələnmişdir.\n" \
+            "5-ci və 10-cu suallar itirilməyən məbləği qazandırır."
+
 
     about_label = Label(aboutWindow,
                         font=("arial", 14, "bold"),
