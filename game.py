@@ -109,9 +109,9 @@ questionList_A = ["0. Azərbaycan dilində hansı durğu işarəsi var?",
                   "71. Basillər adlanan bakteriyalar hansı formada olurlar?",
                   "72. ABŞ prezidenti Qrover Klivlend evlənənə qədər Birinci Ledi adını kim daşıyırdı?",
                   "73. Azərbaycanın görkəmli şairi və musiqişünas alimi Mir Möhsün Nəvvabın evi Şuşanın hansı məhəlləsindədir?",
-                  "Amerika basketbolçusu Devid Robinsonun ləqəbi nə idi?",
-                  "Azərbaycan opera müğənnisi və aktyoru Hüseynqulu Sarabski səhnə fəaliyyətinə hansı rolla başlamışdır?",
-                  "Dünya okeanında qurudan ən uzaq olan yer necə adlanır?",
+                  "74. Amerika basketbolçusu Devid Robinsonun ləqəbi nə idi?",
+                  "75. Azərbaycan opera müğənnisi və aktyoru Hüseynqulu Sarabski səhnə fəaliyyətinə hansı rolla başlamışdır?",
+                  "76. Dünya okeanında qurudan ən uzaq olan yer necə adlanır?",
                   "24 Noyabr 1959-cu il tarixində hansı rayona böyük meteorit düşüb?",
                   "Səməd Vurğun kimi “əli qılınclı şair” adlandırırdı?",
                   "İslandiya parlamenti necə adlanır?",
@@ -149,7 +149,7 @@ first_option_six_to_ten = ["Dmitri Mendeleyev", "İsrail", "Cemper", "Gəncə qa
                            "Mart", "Sərçə", "Şimali", "Səmərqənd karvansarayı", "Rene Dekart", "Zirzəmi", "Platin",
                            "Salfet", "Çili"]
 
-first_option_eleven_to_fifteen = ["Mars", "Kürəşəkilli", "Anası"]
+first_option_eleven_to_fifteen = ["Mars", "Kürəşəkilli", "Anası", "Köçərli", "General", "Sərvər", "Kusto nöqtəsi"]
 
 first_option += first_option_six_to_ten
 
@@ -165,7 +165,7 @@ second_option_six_to_ten = ["Vinston Çörçil", "Qətər", "Jaket", "İrəvan q
                             "May", "Qaşqaldaq", "Cənubi", "Buxara karvansarayı", "Əflatun", "Eyvan", "Civə",
                             "Çay", "İsrail"]
 
-second_option_eleven_to_fifteen = ["Yupiter", "Spirallşəkilli", "Qızı"]
+second_option_eleven_to_fifteen = ["Yupiter", "Spirallşəkilli", "Qızı", "Mamayı", "Marşal", "Kərəm", "Dreyk nöqtəsi"]
 second_option += second_option_six_to_ten
 
 third_option = ["Caynaq", "Sarımsaq", "Vedrə", "Senturion", "Qonaq qarşılamaq", "Ağıl dəryası", "Göy kitab",
@@ -180,7 +180,7 @@ third_option_six_to_ten = ["Fidel Kastro", "Livan", "Pulover", "Şamaxı qapıs�
                            "Iyun", "Qartal", "Qərbi", "Xanaband karvansarayı", "Fridrix Nitşe", "Dam", "Alüminium",
                            "Masa", "Çin"]
 
-third_option_eleven_to_fifteen = ["Saturn", "Çöpşəkilli", "Bacısı"]
+third_option_eleven_to_fifteen = ["Saturn", "Çöpşəkilli", "Bacısı", "Seyidli", "Kapitan", "Rəsul", "Kuk nöqtəsi"]
 third_option += third_option_six_to_ten
 
 fourth_option = ["Ayaq", "Xiyar", "Süpürgə", "Veteran", "Vergi yığmaq", "Elm səhrası", "Yaşıl kitab", "Kilometr",
@@ -195,7 +195,7 @@ fourth_option_six_to_ten = ["Karl Marks", "İordaniya", "Sviter", "Ağoğlan qap
                             "Iyul", "Qağayı", "Şərqi", "Daşkənd karvansarayı", "İmadəddin Nəsimi", "Villa", "Qurğuşun",
                             "Qəhvə köpüyü", "Yaponiya"]
 
-fourth_option_eleven_to_fifteen = ["Venera", "Vergülşəkilli", "Rəfiqəsi"]
+fourth_option_eleven_to_fifteen = ["Venera", "Vergülşəkilli", "Rəfiqəsi", "Saatlı", "Admiral", "Məcnun", "Nemo nöqtəsi"]
 fourth_option += fourth_option_six_to_ten
 
 correct_answers = ["Dırnaq", "Soğan", "Süpürgə", "Legioner", "Qonaq qarşılamaq", "Ağıl dəryası", "Vinston Çörçil",
