@@ -1,5 +1,8 @@
 from tkinter import *
 import pygame
+
+import game
+
 pygame.mixer.init()
 
 
@@ -53,7 +56,7 @@ def game_over_command():
     #amount_player_win.pack(pady=5)
 
     amount_player_win = Label(game_over_frame,
-                       text=amount,
+                       text=game.amount_win,
                        background=background_color,
                        foreground="#f8a616",
                        font=("Terminal", 25, "bold"))

@@ -6,6 +6,9 @@ import time
 
 pygame.mixer.init()
 
+global amount_win
+amount_win = 0
+
 def game_over_function():
     import game_over
     game_over.game_over_command()
@@ -430,41 +433,58 @@ def run_game():
 
             questionsArea.config(state=NORMAL)  # make question editable for next question
             questionsArea.delete(1.0, END)  # delete current question
+            questionsArea.insert(END, questionList_A[displayedList[i]])  # write new question
+            # update amount label with amount photo
+            amountLabel.config(image=amountPhotoList[i])
+            print(i)
+            optionButton1.config(text="")
+            optionButton2.config(text="")
+            optionButton3.config(text="")
+            optionButton4.config(text="")
+            time.sleep(1)
+            gameWindow.update()
+            # CHANGE ALL OPTIONS
+            run_this()
 
             # Questions from 0 to 4. First 5 questions
-            if i == 1 or i == 2 or i == 3 or i == 4:
-                questionsArea.insert(END, questionList_A[displayedList[i]])  # write new question
-                # update amount label with amount photo
-                amountLabel.config(image=amountPhotoList[i])
-                print(i)
-                optionButton1.config(text="")
-                optionButton2.config(text="")
-                optionButton3.config(text="")
-                optionButton4.config(text="")
-                time.sleep(1)
-                gameWindow.update()
+            global amount_win
+            if i == 1:
+                amount_win = 100
+                print(amount_win)
+            elif i == 2:
+                amount_win = 200
+                print(amount_win)
+            elif i == 3:
+                amount_win = 300
+                print(amount_win)
+            elif i == 4:
+                amount_win = 500
+                print(amount_win)
+            elif i == 5:
+                amount_win = 1000
+            elif i == 6:
+                amount_win = 2000
+            elif i == 7:
+                amount_win = 4000
+            elif i == 8:
+                amount_win = 8000
+            elif i == 9:
+                amount_win = 16000
+            elif i == 10:
+                amount_win = 32000
+            elif i == 11:
+                amount_win = 64000
+            elif i == 12:
+                amount_win = 125000
+            elif i == 13:
+                amount_win = 250000
+            elif i == 14:
+                amount_win = 500000
+            elif i == 15:
+                amount_win = 1000000
 
-                # CHANGE ALL OPTIONS
-                run_this()
 
-            # Questions from 5 to 9. Second 5 Questions
-            elif i == 5 or i == 6 or i == 7 or i == 8 or i == 9:
-                questionsArea.insert(END, questionList_A[displayedList[i]])  # write new question
-                # update amount label with amount photo
-                amountLabel.config(image=amountPhotoList[i])
-                print(i)
-                optionButton1.config(text="")
-                optionButton2.config(text="")
-                optionButton3.config(text="")
-                optionButton4.config(text="")
-                time.sleep(1)
-                gameWindow.update()
-                # CHANGE ALL OPTIONS
-                run_this()
 
-            # Questions from
-            elif i == 10 or i == 11 or i == 12 or i == 13 or i == 14:
-                print("Last 5 questions")
 
 
 
