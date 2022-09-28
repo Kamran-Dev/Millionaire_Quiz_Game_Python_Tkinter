@@ -66,7 +66,7 @@ def game_over_command():
 
     # <<<<<<< BACK TO MENU BUTTON >>>>>>>
     def main_menu_command():
-        pygame.mixer.music.load("files/04.click.wav")
+        pygame.mixer.music.load("files/click_04.wav")
         pygame.mixer.music.play(0)
         print("Part1")
         game_over_window.destroy()

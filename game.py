@@ -115,30 +115,30 @@ questionList_A = ["0. Azərbaycan dilində hansı durğu işarəsi var?",
                   "74. Amerika basketbolçusu Devid Robinsonun ləqəbi nə idi?",
                   "75. Azərbaycan opera müğənnisi və aktyoru Hüseynqulu Sarabski səhnə fəaliyyətinə hansı rolla başlamışdır?",
                   "76. Dünya okeanında qurudan ən uzaq olan yer necə adlanır?",
-                  "24 Noyabr 1959-cu il tarixində hansı rayona böyük meteorit düşüb?",
-                  "Səməd Vurğun kimi “əli qılınclı şair” adlandırırdı?",
-                  "İslandiya parlamenti necə adlanır?",
-                  "Daniel Defonun ədəbi qəhrəmanı Robinzon Kruzo düşdüyü adada neçə il qalıb?",
-                  "Bunlardan hansı temperament tipi deyil?",
-                  "Konstantinopolu hansı türk sultanı fəth edib?",
-                  "Qədim İran Atəşpərəstləri Günəşin və Odun vəkili olan mələyi necə adlandırırdılar?",
-                  "Əfsanəyə görə məşhur “Kohinu” almazına bu adı kim verib?",
-                  "Kəşfiyyat üçün nəzərdə tutulmuş iti sürətli kiçik xidmət gəmisi necə adlanır?",
-                  "İngiltərə kralı İ Eduard hansı ləqəbi daşıyırdı?",
-                  "Yapon dilindən tərcümədə “Aykido” nə deməkdir?",
-                  "Bir tərəfi şirin digər tərəfi şor sulu olan göl hansıdır?",
-                  "Robin Qudun ən yaxın dostunun adı nə olub?",
-                  "Azərbaycan dili hansı dillər ailəsinə aid edilir?",
-                  "Napoleonun birinci arvadının adı nə idi?",
-                  "Dəməşq poladının sirrini hansı alim açıb?",
-                  "Rəvayətə görə bu peyğəmbər quşların və heyvanların dilini bilirdi?",
-                  "A.S. Puşkini dueldə öldürən Dantes hansı ölkədən mühacirət etmişdir?",
-                  "Bu gəmilərdən hansı Xristofor Kolumbun Amerika sahillərinə çatmış ekspedisiyasının tərkibinə daxil deyil?",
-                  "Bədənə şəkil döydürmək sənəti Yaponiyada necə adlanır?",
-                  "Olimpiya Oyunlarının medalını alan ilk azərbaycanlı idmançı kimdir?",
-                  "1840-cı ildə buraxılmış ilk poçt markasında kimin portreti təsvir olunub?",
-                  "Abbasqulu ağa Bakıxanov “Kəşfül-qəraib” əsərində haranın kəşfini qələmə alıb?",
-                  "Roma İmperatoru Konstantinin atası Flavi Valeri Konstantinin ləqəbi nə idi?"]
+                  "77. 24 Noyabr 1959-cu il tarixində hansı rayona böyük meteorit düşüb?",
+                  "78. Səməd Vurğun kimi “əli qılınclı şair” adlandırırdı?",
+                  "79. İslandiya parlamenti necə adlanır?",
+                  "80. Daniel Defonun ədəbi qəhrəmanı Robinzon Kruzo düşdüyü adada neçə il qalıb?",
+                  "81. Bunlardan hansı temperament tipi deyil?",
+                  "82. Konstantinopolu hansı türk sultanı fəth edib?",
+                  "83. Qədim İran Atəşpərəstləri Günəşin və Odun vəkili olan mələyi necə adlandırırdılar?",
+                  "84. Əfsanəyə görə məşhur “Kohinu” almazına bu adı kim verib?",
+                  "85. Kəşfiyyat üçün nəzərdə tutulmuş iti sürətli kiçik xidmət gəmisi necə adlanır?",
+                  "86. İngiltərə kralı İ Eduard hansı ləqəbi daşıyırdı?",
+                  "87. Yapon dilindən tərcümədə “Aykido” nə deməkdir?",
+                  "88. Bir tərəfi şirin digər tərəfi şor sulu olan göl hansıdır?",
+                  "89. Robin Qudun ən yaxın dostunun adı nə olub?",
+                  "90. Azərbaycan dili hansı dillər ailəsinə aid edilir?",
+                  "91. Napoleonun birinci arvadının adı nə idi?",
+                  "92. Dəməşq poladının sirrini hansı alim açıb?",
+                  "93. Rəvayətə görə bu peyğəmbər quşların və heyvanların dilini bilirdi?",
+                  "94. A.S. Puşkini dueldə öldürən Dantes hansı ölkədən mühacirət etmişdir?",
+                  "95. Bu gəmilərdən hansı Xristofor Kolumbun Amerika sahillərinə çatmış ekspedisiyasının tərkibinə daxil deyil?",
+                  "96. Bədənə şəkil döydürmək sənəti Yaponiyada necə adlanır?",
+                  "97. Olimpiya Oyunlarının medalını alan ilk azərbaycanlı idmançı kimdir?",
+                  "98. 1840-cı ildə buraxılmış ilk poçt markasında kimin portreti təsvir olunub?",
+                  "99. Abbasqulu ağa Bakıxanov “Kəşfül-Qəraib” əsərində haranın kəşfini qələmə alıb?",
+                  "100. Roma İmperatoru Konstantinin atası Flavi Valeri Konstantinin ləqəbi nə idi?"]
 
 first_option = ["Barmaq", "Soğan", "Tozsoran", "Qladiator", "Həkimlik", "İntellekt okeanı", "Qırmızı kitab",
                 "Santimetr", '"28 May"', "Soyuq Limonad", "İtaliya", "Şəngülüm", "Həbsxana", "Alça səbəti", "Qol güləşdirmək",
@@ -147,14 +147,18 @@ first_option = ["Barmaq", "Soğan", "Tozsoran", "Qladiator", "Həkimlik", "İnte
                 "Qəssab", "Alma", "Dildən qələm", "Təzə bazar", "Bibi", "Miçman", "Suflyor"]
 
 first_option_six_to_ten = ["Dmitri Mendeleyev", "İsrail", "Cemper", "Gəncə qapısı", "Sevgilisinin", "Marinist",
-                           "Steqozavrlar,", "Fevral", "Bakı", "Məhəmməd Məscidi", "Lavanda", "Çilingər", "S", "Şar",
+                           "Steqozavrlar", "Fevral", "Bakı", "Məhəmməd Məscidi", "Lavanda", "Çilingər", "S", "Şar",
                            "Çobandarağı", "Biləsuvar", "Sual işarəsi", "Güləş", "Nepal", "“Neftçilər”", "Sarı dövr",
                            "Mart", "Sərçə", "Şimali", "Səmərqənd karvansarayı", "Rene Dekart", "Zirzəmi", "Platin",
                            "Salfet", "Çili"]
 
-first_option_eleven_to_fifteen = ["Mars", "Kürəşəkilli", "Anası", "Köçərli", "General", "Sərvər", "Kusto nöqtəsi"]
+first_option_eleven_to_fifteen = ["Mars", "Kürəşəkilli", "Anası", "Köçərli", "General", "Sərvər", "Kusto nöqtəsi",
+                                  "Kürdəmir", "Aşıq Ələsgər", "Knessen", "26", "Fleqmatik", "I Murad", "Hörmüzd", "Nadir şah",
+                                  "Avietka", "'Kürən'", "Çətin yol", "Oneqa", "Balaca Con", "Altay dilləri", "İzabella",
+                                  "Mendeleyev", "Musa peyğəmbər", "İtaliyadan", "“Santa-Mariya”", "Oriqami",
+                                  "İbrahimpaşa Dadaşov", "Benjamin Franklinin", "Amerikanın", "Xlor"]
 
-first_option += first_option_six_to_ten
+first_option += first_option_six_to_ten + first_option_eleven_to_fifteen
 
 second_option = ["Dırnaq", "Pomidor", "Xəkəndaz", "Legioner", "Müəllimlik", "Zəka dənizi", "Sarı kitab", "Desimetr",
                  '"20 Yanvar"', "Acı qəhvə", "Yaponiya", "Məngülüm", "Bazar", "Zəhər tuluğu", "Qol vurmaq", "Bazar",
@@ -168,8 +172,12 @@ second_option_six_to_ten = ["Vinston Çörçil", "Qətər", "Jaket", "İrəvan q
                             "May", "Qaşqaldaq", "Cənubi", "Buxara karvansarayı", "Əflatun", "Eyvan", "Civə",
                             "Çay", "İsrail"]
 
-second_option_eleven_to_fifteen = ["Yupiter", "Spirallşəkilli", "Qızı", "Mamayı", "Marşal", "Kərəm", "Dreyk nöqtəsi"]
-second_option += second_option_six_to_ten
+second_option_eleven_to_fifteen = ["Yupiter", "Spirallşəkilli", "Qızı", "Mamayı", "Marşal", "Kərəm", "Dreyk nöqtəsi",
+                                   "Şamaxı", "Aşıq Abbas Tufanqarlı", "Altinq", "27", "Xolerik", "II Səlim", "Şirvin", "Məhəmməd şah",
+                                   "Avizo", "'Sülhyaradan'", "Yumşaq yol", "Baykal", "Şirürəkli Riçard", "Hindavropa dilləri",
+                                   "Josefina", "Zelinski", "Nuh peyğəmbər", "İngiltərədən", "“Pinta”", "Xanami",
+                                   "Rəşid Məmmədbəyov", "Corc Vaşinqtonun", "Afrikanın", "Yod"]
+second_option += second_option_six_to_ten + second_option_eleven_to_fifteen
 
 third_option = ["Caynaq", "Sarımsaq", "Vedrə", "Senturion", "Qonaq qarşılamaq", "Ağıl dəryası", "Göy kitab",
                 "Millimetr", '„Elmlər Akademiyası“', "İsti kakao", "Norveç", "Şüngülüm", "Hamam", "İstiot torbası", "Qol burmaq",
@@ -183,8 +191,12 @@ third_option_six_to_ten = ["Fidel Kastro", "Livan", "Pulover", "Şamaxı qapıs�
                            "Iyun", "Qartal", "Qərbi", "Xanaband karvansarayı", "Fridrix Nitşe", "Dam", "Alüminium",
                            "Masa", "Çin"]
 
-third_option_eleven_to_fifteen = ["Saturn", "Çöpşəkilli", "Bacısı", "Seyidli", "Kapitan", "Rəsul", "Kuk nöqtəsi"]
-third_option += third_option_six_to_ten
+third_option_eleven_to_fifteen = ["Saturn", "Çöpşəkilli", "Bacısı", "Seyidli", "Kapitan", "Rəsul", "Kuk nöqtəsi", "Ağdam",
+                                  "Aşıq Şəmşir", "Stortinq", "28", "Praqmatik", "Osman", "Azər", "Babur şah", "Avaks",
+                                  "'Şir ürəyi'", "Uğurlu yol", "Balxaş", "Sanço-Pansa", "Dravid dilləri", "Mariya-Luiza",
+                                  "Butlerov", "Süleyman peyğəmbər", "Fransadan", "“Trinidad”", "Seppuku",
+                                  "Xandadaş Mədətov", "Kraliça Viktoriyanın", "Antarktidanın", "Ftor"]
+third_option += third_option_six_to_ten + third_option_eleven_to_fifteen
 
 fourth_option = ["Ayaq", "Xiyar", "Süpürgə", "Veteran", "Vergi yığmaq", "Elm səhrası", "Yaşıl kitab", "Kilometr",
                  '„Memar Əcəmi“', "Şirin çay", "Meksika", "Səngülüm", "Xəstəxana", "Duzqabı", "Qol çəkmək", "Cümə",
@@ -198,8 +210,12 @@ fourth_option_six_to_ten = ["Karl Marks", "İordaniya", "Sviter", "Ağoğlan qap
                             "Iyul", "Qağayı", "Şərqi", "Daşkənd karvansarayı", "İmadəddin Nəsimi", "Villa", "Qurğuşun",
                             "Qəhvə köpüyü", "Yaponiya"]
 
-fourth_option_eleven_to_fifteen = ["Venera", "Vergülşəkilli", "Rəfiqəsi", "Saatlı", "Admiral", "Məcnun", "Nemo nöqtəsi"]
-fourth_option += fourth_option_six_to_ten
+fourth_option_eleven_to_fifteen = ["Venera", "Vergülşəkilli", "Rəfiqəsi", "Saatlı", "Admiral", "Məcnun", "Nemo nöqtəsi",
+                                   "Yardımlı", "Aşıq Hüseyn Bozalqanlı", "Folkering", "29", "Melanxolik", "II Mehmet", "Əhriman",
+                                   "Kraliça Viktoriya", "Anşlüs", "'Uzunayaq'", "Harmoniya yolu", "Ladoqa", "Balaca Rom",
+                                   "Ural dilləri", "Selestina", "Anosov", "Davud peyğəmbər", "Avstriyadan", "“Ninya”",
+                                   "İredzumi", "Yuri Konovalov", "Mariya Tüdorun", "Avstraliyanın", "Brom"]
+fourth_option += fourth_option_six_to_ten + fourth_option_eleven_to_fifteen
 
 correct_answers = ["Dırnaq", "Soğan", "Süpürgə", "Legioner", "Qonaq qarşılamaq", "Ağıl dəryası", "Vinston Çörçil",
                    "İsrail", "Sviter", "Şamaxı qapısı", "Oğlunun", "Mars", "Qırmızı kitab", "Millimetr",
@@ -215,7 +231,6 @@ correct_answers = ["Dırnaq", "Soğan", "Süpürgə", "Legioner", "Qonaq qarşı
                    "Süleyman peyğəmbər", "Fransadan", "'Trinidad'", "İredzumi", "Rəşid Məmmədbəyov", "Kraliça Viktoriyanın",
                    "Amerikanın", "Xlor"]
 
-
 def run_game():
     global gameWindow
 
@@ -224,6 +239,7 @@ def run_game():
     mainColor = "#000b55"
     questionColor = "#002669"
     optionsColor = "#003088"
+    orangeColor = "#cd6802"
     gameWindow.config(bg=mainColor)
 
 
@@ -301,7 +317,7 @@ def run_game():
     centreFrame = Frame(leftFrame, bg=mainColor)
     centreFrame.grid(row=1, column=0)
 
-    centerPhoto = PhotoImage(file="files/002 (2).png")
+    centerPhoto = PhotoImage(file="files/main_logo.png")
     logoLabel = Label(centreFrame, image=centerPhoto, height=360, width=370, bg=mainColor)
     logoLabel.grid(row=0, column=0)
 
@@ -314,7 +330,7 @@ def run_game():
     rightFrame.grid(row=0, column=1)
 
     # # <<<<<<< AMOUNT IMAGE LABEL >>>>>>>
-    amountPhoto = PhotoImage(file="files/000.png")
+    amountPhoto = PhotoImage(file="files/001.png")
     amountPhoto1 = PhotoImage(file="files/001.png")
     amountPhoto2 = PhotoImage(file="files/002.png")
     amountPhoto3 = PhotoImage(file="files/003.png")
@@ -339,6 +355,10 @@ def run_game():
 
     # <<<<<<< QUESTIONS LAY LABEL >>>>>>>
     questionLay = PhotoImage(file="files/lay1.png")
+    questionLayA = PhotoImage(file="files/lay1_A.png")
+    questionLayB = PhotoImage(file="files/lay1_B.png")
+    questionLayC = PhotoImage(file="files/lay1_C.png")
+    questionLayD = PhotoImage(file="files/lay1_D.png")
     questionLabel = Label(bottomFrame, image=questionLay, bg=mainColor, anchor="center")
     questionLabel.grid(row=0, column=0)
 
@@ -360,7 +380,7 @@ def run_game():
     questionsArea.config(state=DISABLED)
 
     # <<<<<<< FIRST OPTION >>>>>>>
-    optionButton1 = Button(bottomFrame,
+    option_button_A = Button(bottomFrame,
                            text=first_option[displayedList[i]],
                            font=("arial", 17, "bold"),
                            bg=optionsColor,
@@ -368,10 +388,23 @@ def run_game():
                            bd=0,
                            activebackground=optionsColor,
                            activeforeground="white")
-    optionButton1.place(x=130, y=116)
+    option_button_A.place(x=130, y=116)
+
+    def option_button_A_enter(e):
+
+        questionLabel.config(image=questionLayA)
+        option_button_A.config(bg=orangeColor, fg="BLACK", activeforeground="BLACK", activebackground=orangeColor)
+
+    def option_button_A_leave(e):
+        questionLabel.config(image=questionLay)
+        option_button_A.config(bg=optionsColor, fg="WHITE", activeforeground="WHITE", activebackground=optionsColor)
+
+    option_button_A.bind("<Enter>", option_button_A_enter)
+    option_button_A.bind("<Leave>", option_button_A_leave)
+
 
     # <<<<<<< SECOND OPTION >>>>>>>
-    optionButton2 = Button(bottomFrame,
+    option_button_B = Button(bottomFrame,
                            text=second_option[displayedList[i]],
                            font=("arial", 17, "bold"),
                            bg=optionsColor,
@@ -379,10 +412,23 @@ def run_game():
                            bd=0,
                            activebackground=optionsColor,
                            activeforeground="white")
-    optionButton2.place(x=570, y=116)
+    option_button_B.place(x=570, y=116)
+
+
+    def option_button_B_enter(e):
+
+        questionLabel.config(image=questionLayB)
+        option_button_B.config(bg=orangeColor, fg="BLACK", activeforeground="BLACK", activebackground=orangeColor)
+
+    def option_button_B_leave(e):
+        questionLabel.config(image=questionLay)
+        option_button_B.config(bg=optionsColor, fg="WHITE", activeforeground="WHITE", activebackground=optionsColor)
+
+    option_button_B.bind("<Enter>", option_button_B_enter)
+    option_button_B.bind("<Leave>", option_button_B_leave)
 
     # <<<<<<< THIRD OPTION >>>>>>>
-    optionButton3 = Button(bottomFrame,
+    option_button_C = Button(bottomFrame,
                            text=third_option[displayedList[i]],
                            font=("arial", 17, "bold"),
                            bg=optionsColor,
@@ -390,10 +436,25 @@ def run_game():
                            bd=0,
                            activebackground=optionsColor,
                            activeforeground="white")
-    optionButton3.place(x=132, y=180)
+    option_button_C.place(x=132, y=180)
+
+
+    def option_button_C_enter(e):
+
+        questionLabel.config(image=questionLayC)
+        option_button_C.config(bg=orangeColor, fg="BLACK", activeforeground="BLACK", activebackground=orangeColor)
+
+    def option_button_C_leave(e):
+        questionLabel.config(image=questionLay)
+        option_button_C.config(bg=optionsColor, fg="WHITE", activeforeground="WHITE", activebackground=optionsColor)
+
+    option_button_C.bind("<Enter>", option_button_C_enter)
+    option_button_C.bind("<Leave>", option_button_C_leave)
+
+
 
     # <<<<<<< FOURTH OPTION >>>>>>>
-    optionButton4 = Button(bottomFrame,
+    option_button_D = Button(bottomFrame,
                            text=fourth_option[displayedList[i]],
                            font=("arial", 17, "bold"),
                            bg=optionsColor,
@@ -401,17 +462,31 @@ def run_game():
                            bd=0,
                            activebackground=optionsColor,
                            activeforeground="white")
-    optionButton4.place(x=572, y=180)
+    option_button_D.place(x=572, y=180)
+
+
+    def option_button_D_enter(e):
+
+        questionLabel.config(image=questionLayD)
+        option_button_D.config(bg=orangeColor, fg="BLACK", activeforeground="BLACK", activebackground=orangeColor)
+
+    def option_button_D_leave(e):
+        questionLabel.config(image=questionLay)
+        option_button_D.config(bg=optionsColor, fg="WHITE", activeforeground="WHITE", activebackground=optionsColor)
+
+    option_button_D.bind("<Enter>", option_button_D_enter)
+    option_button_D.bind("<Leave>", option_button_D_leave)
+
 
     # <<<<<<< COMMANDS CHECK ANSWER >>>>>>>
     def show_first_opt():
-        optionButton1.config(text=first_option[displayedList[i]])
+        option_button_A.config(text=first_option[displayedList[i]])
     def show_second_opt():
-        optionButton2.config(text=second_option[displayedList[i]])
+        option_button_B.config(text=second_option[displayedList[i]])
     def show_third_opt():
-        optionButton3.config(text=third_option[displayedList[i]])
+        option_button_C.config(text=third_option[displayedList[i]])
     def show_forth_opt():
-        optionButton4.config(text=fourth_option[displayedList[i]])
+        option_button_D.config(text=fourth_option[displayedList[i]])
 
     list_of_function = [show_first_opt, show_second_opt, show_third_opt, show_forth_opt]
 
@@ -437,10 +512,10 @@ def run_game():
             # update amount label with amount photo
             amountLabel.config(image=amountPhotoList[i])
             print(i)
-            optionButton1.config(text="")
-            optionButton2.config(text="")
-            optionButton3.config(text="")
-            optionButton4.config(text="")
+            option_button_A.config(text="")
+            option_button_B.config(text="")
+            option_button_C.config(text="")
+            option_button_D.config(text="")
             time.sleep(1)
             gameWindow.update()
             # CHANGE ALL OPTIONS
@@ -462,41 +537,48 @@ def run_game():
                 print(amount_win)
             elif i == 5:
                 amount_win = 1000
+                print(amount_win)
             elif i == 6:
                 amount_win = 2000
+                print(amount_win)
             elif i == 7:
                 amount_win = 4000
+                print(amount_win)
             elif i == 8:
                 amount_win = 8000
+                print(amount_win)
             elif i == 9:
                 amount_win = 16000
+                print(amount_win)
             elif i == 10:
                 amount_win = 32000
+                print(amount_win)
             elif i == 11:
                 amount_win = 64000
+                print(amount_win)
             elif i == 12:
                 amount_win = 125000
+                print(amount_win)
             elif i == 13:
                 amount_win = 250000
+                print(amount_win)
             elif i == 14:
                 amount_win = 500000
+                print(amount_win)
             elif i == 15:
                 amount_win = 1000000
-
-
-
-
-
+                print(amount_win)
 
         if value not in correct_answers:
+
             print("Wrong answer!")
             game_over_function()
 
     # <<<<<<< COMMANDS FOR OPTION BUTTONS >>>>>>>
-    optionButton1.bind("<Button-1>", select_command)
-    optionButton2.bind("<Button-1>", select_command)
-    optionButton3.bind("<Button-1>", select_command)
-    optionButton4.bind("<Button-1>", select_command)
+    option_button_A.bind("<Button-1>", select_command)
+    option_button_B.bind("<Button-1>", select_command)
+    option_button_C.bind("<Button-1>", select_command)
+    option_button_D.bind("<Button-1>", select_command)
 
     # <<<<<<< Call a friend button >>>>>>>
     def callFriend():
@@ -521,10 +603,10 @@ def run_game():
         #pygame.mixer.music.load("files/calling.mp3")
         #pygame.mixer.music.play(0)
 
-        option1 = optionButton1.cget('text')
-        option2 = optionButton2.cget('text')
-        option3 = optionButton3.cget('text')
-        option4 = optionButton4.cget('text')
+        option1 = option_button_A.cget('text')
+        option2 = option_button_B.cget('text')
+        option3 = option_button_C.cget('text')
+        option4 = option_button_D.cget('text')
 
         if option1 in correct_answers:
             answer = option1
@@ -546,7 +628,6 @@ def run_game():
                             "Böyük ehtimal ki, cavab:",
                             "Qəti qərarımdır, cavab:"]
         ans = random.choice(possible_answers)
-        print(answer)
         answer_frame = Frame(call_friend_window, bg=bg_color)
         answer_frame.place(relx=0.5, rely=0.48, anchor=CENTER)
 
@@ -582,7 +663,7 @@ def run_game():
         # EXIT BUTTON FOR CALL A FRIEND WINDOW
         tshk_hover_image = PhotoImage(file="files/button9.png")
         def exit_command():
-            pygame.mixer.music.load("files/04.click.wav")
+            pygame.mixer.music.load("files/click_04.wav")
             pygame.mixer.music.play(0)
             call_friend_window.destroy()
 
@@ -619,19 +700,19 @@ def run_game():
     # <<<<<<< 50 - 50 Button >>>>>>>
     def halfQuestion():
         incorrect_answers = []
-        option1 = optionButton1.cget('text')
-        option2 = optionButton2.cget('text')
-        option3 = optionButton3.cget('text')
-        option4 = optionButton4.cget('text')
+        option1 = option_button_A.cget('text')
+        option2 = option_button_B.cget('text')
+        option3 = option_button_C.cget('text')
+        option4 = option_button_D.cget('text')
 
         if option1 not in correct_answers:
-            incorrect_answers.append(optionButton1)
+            incorrect_answers.append(option_button_A)
         if option2 not in correct_answers:
-            incorrect_answers.append(optionButton2)
+            incorrect_answers.append(option_button_B)
         if option3 not in correct_answers:
-            incorrect_answers.append(optionButton3)
+            incorrect_answers.append(option_button_C)
         if option4 not in correct_answers:
-            incorrect_answers.append(optionButton4)
+            incorrect_answers.append(option_button_D)
 
         incorrect_answers[0].config(text='')
         incorrect_answers[2].config(text='')
@@ -683,10 +764,10 @@ def run_game():
         percentageLabelC = Label(audience_window, font=("arial", 11, "bold"), bg=bg_color, fg="WHITE")
         percentageLabelD = Label(audience_window, font=("arial", 11, "bold"), bg=bg_color, fg="WHITE")
 
-        option1 = optionButton1.cget('text')
-        option2 = optionButton2.cget('text')
-        option3 = optionButton3.cget('text')
-        option4 = optionButton4.cget('text')
+        option1 = option_button_A.cget('text')
+        option2 = option_button_B.cget('text')
+        option3 = option_button_C.cget('text')
+        option4 = option_button_D.cget('text')
 
         if option1 in correct_answers:
             progbarA.config(value=list_of_percentage[3])
@@ -752,7 +833,7 @@ def run_game():
         exit_hover_image = PhotoImage(file="files/sagol2.png")
 
         def exit_command():
-            pygame.mixer.music.load("files/04.click.wav")
+            pygame.mixer.music.load("files/click_04.wav")
             pygame.mixer.music.play(0)
             audience_window.destroy()
 
@@ -766,7 +847,6 @@ def run_game():
         exit_button.place(x=22, y=240)
 
         def start_button_hover(e):
-
             exit_button.config(image=exit_hover_image)
 
         def start_button_leave(e):
@@ -774,6 +854,8 @@ def run_game():
 
         exit_button.bind("<Enter>", start_button_hover)
         exit_button.bind("<Leave>", start_button_leave)
+        audienceButton.config(state=DISABLED, image=photoAudienceX)
+
 
 
     audienceButton.config(command=audience_command)

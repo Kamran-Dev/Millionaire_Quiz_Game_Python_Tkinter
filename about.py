@@ -4,7 +4,7 @@ import win32com.client as win32
 pygame.mixer.init()
 
 def aboutCommand():
-    pygame.mixer.music.load("files/04.click.wav")
+    pygame.mixer.music.load("files/click_04.wav")
     pygame.mixer.music.play(0)
     aboutWindow = Toplevel()
     main_color = "#24094e"
@@ -96,7 +96,7 @@ def aboutCommand():
 
     # BUTTON
     def exit_command():
-        pygame.mixer.music.load("files/04.click.wav")
+        pygame.mixer.music.load("files/click_04.wav")
         pygame.mixer.music.play(0)
         aboutWindow.destroy()
 

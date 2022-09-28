@@ -2,6 +2,7 @@ from tkinter import *
 import webbrowser
 import pygame
 import about
+import achievements
 
 pygame.mixer.init()
 
@@ -43,7 +44,7 @@ def login():
 
     # <<<<<< START BUTTON >>>>>>
     def startCommand():
-        pygame.mixer.music.load("files/04.click.wav")
+        pygame.mixer.music.load("files/click_04.wav")
         pygame.mixer.music.play(0)
 
         window.destroy()
@@ -101,7 +102,7 @@ def login():
 
     like_button_image = PhotoImage(file="files/button1 (5).png")
     def likeButton():
-        pygame.mixer.music.load("files/04.click.wav")
+        pygame.mixer.music.load("files/click_04.wav")
         pygame.mixer.music.play(0)
 
         #url = "https://www.google.com/"
@@ -126,11 +127,12 @@ def login():
     likeButton.bind("<Leave>", like_button_leave)
 
     # <<<<<<< achievements >>>>>>>
-
     achievement_button_image = PhotoImage(file="files/button1 (7).png")
     def achievementsCommand():
-        pygame.mixer.music.load("files/04.click.wav")
+        pygame.mixer.music.load("files/click_04.wav")
         pygame.mixer.music.play(0)
+        achievements.run_achievement()
+
 
     achievementsButton = Button(buttonFrame,
                                 image=achievement_button_image,
