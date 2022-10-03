@@ -31,7 +31,7 @@ def game_over_command():
 
     about_center_x = (screen_width / 2) - (width / 2)  # find the location of app on the x coordinate
     about_center_y = (screen_height / 2) - (height / 2)  # find the location of app on the y coordinate
-    game_over_window.geometry("{}x{}+{}+{}".format(width, height, int(about_center_x), int(about_center_y)))
+    game_over_window.geometry("{}x{}+{}+{}".format(width, height, int(about_center_x), int(about_center_y)-45))
 
     game_over_window.config(background=background_color,
                             borderwidth=2,

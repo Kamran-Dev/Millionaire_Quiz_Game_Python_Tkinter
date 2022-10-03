@@ -6,6 +6,26 @@ import time
 
 pygame.mixer.init()
 
+
+def win_window():
+    winner_window = Tk()
+    winner_window.overrideredirect(True)
+    background_color = "#790ea1"
+
+    width = 560
+    height = 360
+
+    screen_width = winner_window.winfo_screenwidth()  # width of the screen
+    screen_height = winner_window.winfo_screenheight()  # height of the screen
+
+    about_center_x = (screen_width / 2) - (width / 2)  # find the location of app on the x coordinate
+    about_center_y = (screen_height / 2) - (height / 2)  # find the location of app on the y coordinate
+    winner_window.geometry("{}x{}+{}+{}".format(width, height, int(about_center_x), int(about_center_y)))
+    winner_window.mainloop()
+
+#pygame.mixer.music.load("files/start_music.mp3")
+#pygame.mixer.music.play(0)
+
 global amount_win
 amount_win = 0
 
@@ -493,7 +513,7 @@ def run_game():
     def run_this():
         #time.sleep(1)
         for func in list_of_function:
-            time.sleep(1)
+            time.sleep(0.5)
             func()
             gameWindow.update_idletasks()
 
@@ -504,6 +524,8 @@ def run_game():
         global i
 
         if value in correct_answers:  # it starts with [0]
+            pygame.mixer.music.load("files/correct-2-46134.mp3")
+            pygame.mixer.music.play(0)
             i += 1
 
             questionsArea.config(state=NORMAL)  # make question editable for next question
@@ -526,6 +548,7 @@ def run_game():
             if i == 1:
                 amount_win = 100
                 print(amount_win)
+
             elif i == 2:
                 amount_win = 200
                 print(amount_win)
@@ -568,10 +591,17 @@ def run_game():
             elif i == 15:
                 amount_win = 1000000
                 print(amount_win)
+                win_window()
 
         if value not in correct_answers:
 
             print("Wrong answer!")
+            option_button_A.bind("<Button-1>", NONE)
+            option_button_B.bind("<Button-1>", NONE)
+            option_button_C.bind("<Button-1>", NONE)
+            option_button_D.bind("<Button-1>", NONE)
+            pygame.mixer.music.load("files/negative_beeps-6008.mp3")
+            pygame.mixer.music.play(0)
             game_over_function()
 
     # <<<<<<< COMMANDS FOR OPTION BUTTONS >>>>>>>
@@ -582,6 +612,8 @@ def run_game():
 
     # <<<<<<< Call a friend button >>>>>>>
     def callFriend():
+        pygame.mixer.music.load("files/Zings1.mp3")
+        pygame.mixer.music.play(0)
         bg_color = "#24094e"
         #bg_color = "#500868"
         #bg_color = "#670a8e"
@@ -699,6 +731,8 @@ def run_game():
 
     # <<<<<<< 50 - 50 Button >>>>>>>
     def halfQuestion():
+        pygame.mixer.music.load("files/Zings1.mp3")
+        pygame.mixer.music.play(0)
         incorrect_answers = []
         option1 = option_button_A.cget('text')
         option2 = option_button_B.cget('text')
@@ -724,6 +758,8 @@ def run_game():
     # <<<<<<< AUDIANCE COMMAND >>>>>>>
 
     def audience_command():
+        pygame.mixer.music.load("files/Zings1.mp3")
+        pygame.mixer.music.play(0)
 
         audience_window = Toplevel()
         audience_window.overrideredirect(True)
